@@ -70,9 +70,10 @@ Para completar este teste, você deve concentrar-se principalmente em três arqu
 ## Como Executar
 
 1. Clone o repositório: `git clone https://github.com/viniciusvinny233/AI-Product-Recommender-RD`
-2. Instale as dependências: `yarn install`
-3. Para instalar o projeto, execute o script `./install.sh` 
-4. Inicie a aplicação: `yarn start`
+2. Entre no projeto com: `cd .\AI-Product-Recommender-RD\`
+3. Instale as dependências: `yarn install`
+4. Para instalar o projeto, execute o script: `./install.sh` 
+5. Inicie a aplicação: `yarn start`
 
 ### Scripts Disponíveis
 
